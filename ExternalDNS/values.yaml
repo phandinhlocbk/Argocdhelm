@@ -1,0 +1,16 @@
+#--replicas
+replicas: 1
+
+#--image----
+image1:
+  repository:  stacksimplify/kube-nginxapp1
+  tag: '1.0.0'
+  
+image2:
+  repository:  stacksimplify/kube-nginxapp1
+  tag: '1.0.0'
+  
+image3:
+  repository:  stacksimplify/kube-nginxapp1
+  tag: '1.0.0'
+  
