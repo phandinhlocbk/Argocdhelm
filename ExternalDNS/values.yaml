@@ -1,5 +1,5 @@
 #--replicas
-replicas: 3
+replicas: 10
 
 #--image----
 image1:
